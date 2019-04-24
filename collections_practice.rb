@@ -35,5 +35,7 @@ end
 def find_a(array)
   array.include?("a")
 end
+array
+end
   
 
