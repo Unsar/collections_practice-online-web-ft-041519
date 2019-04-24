@@ -32,6 +32,8 @@ def kesha_maker(array)
   kesha
 end
 
-def find_a
+def find_a(array)
+  array.include?("a")
+end
   
 
